@@ -10,4 +10,4 @@ Jogo de RPG baseado no universo dos Desbravadores. Atualmente em desenvolvimento
 - Desenvolvimento de mecânicas de Movimento, Dialógos, Mudanças de Mapas
 
 ## Versão Pré Alpha (0.0.2)
-- Desenvolvimento Melhoria de Dialógos iniciais, Movimentações de NPC's e 1° Missão para verificar o comportamento do Sistema de Decisão
+- Desenvolvimento Melhoria de Dialógos iniciais e Fonte padrão do Jogo, Movimentações de NPC's e 1° Missão para verificar o comportamento do Sistema de Decisão
